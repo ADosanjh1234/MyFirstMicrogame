@@ -1,6 +1,6 @@
 Project Title: "My First Microgame" 
 
-Description: my game is going to have ..... 
+Description: my game is going to have a room and i am going to chnage the gravity to 12. 
 
 Setup Instructions: How to open and run your game. 
 
